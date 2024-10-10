@@ -10,6 +10,7 @@ const displayInfo = () => {
     ${chalk.blue('Name:')} ${chalk.white(data.name)}
     ${chalk.blue('Title:')} ${chalk.white(data.title)}
     ${chalk.blue('GitHub:')} ${chalk.white(data.github)}
+    ${chalk.blue('LinkedIn:')} ${chalk.white(data.linkedin)}
     ${chalk.blue('URLs:')} ${chalk.white(data.urls.join(', '))}
     ${chalk.blue('Skills:')} ${chalk.white(data.skills.join(', '))}
     ${chalk.blue('Projects:')} ${chalk.white(data.projects.map(project => 
