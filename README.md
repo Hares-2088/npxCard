@@ -21,6 +21,14 @@ or
 ```bash
 npm install
 ```
+
+## Here is how it looks like
+
+<video width="320" height="240" controls>
+  <source src="Videos/npx_card_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ##### STEPS TO CREATE YOUR OWN
 I used this website as a reference to deploy the package. 
 [Write a Simple npx Business Card](https://studioelsa.se/blog/open-source-oss-npx-business-card). 
