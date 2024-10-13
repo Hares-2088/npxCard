@@ -24,10 +24,7 @@ npm install
 
 ## Here is how it looks like
 
-<video width="320" height="240" controls>
-  <source src="Videos/npx_card_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](https://img.youtube.com/vi/AJBPAiy8dqA/0.jpg)](https://www.youtube.com/watch?v=AJBPAiy8dqA)
 
 ##### STEPS TO CREATE YOUR OWN
 I used this website as a reference to deploy the package. 
